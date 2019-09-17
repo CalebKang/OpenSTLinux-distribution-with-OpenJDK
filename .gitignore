@@ -1,0 +1,7 @@
+*.bak
+*.orig
+*.pyc
+*.rej
+*.swp
+/.cproject
+/.project
